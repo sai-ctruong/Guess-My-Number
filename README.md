@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 Bạn có thể chơi game này trực tiếp trên trình duyệt mà không cần cài đặt:
-**👉 [Chơi ngay tại đây!](https://saictruong.github.io/Guess-My-Number/) 👈**
+**👉 [Chơi ngay tại đây!](https://sai-ctruong.github.io/Guess-My-Number/) 👈**
 ## ✨ Các tính năng chính
 
 * Máy tính tự động tạo một con số bí mật trong khoảng từ 1 đến 20.
