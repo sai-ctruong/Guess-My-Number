@@ -28,7 +28,7 @@ Bạn không cần cài đặt gì phức tạp. Chỉ cần làm theo các bư�
 
 1.  **Clone repository này về máy của bạn:**
     ```bash
-    git clone https://github.com/SaiCTruong/Guess-My-Number.git
+    git clone https://github.com/sai-ctruong/Guess-My-Number.git
     ```
 2.  **Di chuyển vào thư mục dự án:**
     ```bash
